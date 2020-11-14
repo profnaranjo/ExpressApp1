@@ -1,3 +1,5 @@
+// This is a starting Node.js/Express Application
+
 'use strict';
 var debug = require('debug');
 var express = require('express');
